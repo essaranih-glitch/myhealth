@@ -104,3 +104,5 @@ export default function Home() {
         Educational tool. Not a diagnosis. Bring these notes to a clinician.
       </p>
     </main>
+  );
+}
